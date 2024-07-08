@@ -1,0 +1,4 @@
+section
+loadfile Build/App.hex 0x08400000 noreset
+reset
+exit

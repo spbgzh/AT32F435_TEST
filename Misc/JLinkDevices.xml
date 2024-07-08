@@ -1,0 +1,10 @@
+<DataBase>
+  <Device>
+    <ChipInfo Vendor="ArteryTek" Name="qspi_algorithm_w25q128_CS_B6_IO1_B10" WorkRAMAddr="0x20000000" WorkRAMSize="0x080000" Core="JLINK_CORE_CORTEX_M4" JLinkScriptFile="Devices/ArteryTek/AT32FLM/AT32F4xx.JLinkScript" />
+    <FlashBankInfo Name="Flash Bank3" BaseAddr="0x90000000" MaxSize="0x01000000" Loader="Devices/ArteryTek/AT32FLM/qspi_algorithm_w25q128_CS_B6_IO1_B10.FLM" LoaderType="FLASH_ALGO_TYPE_OPEN" AlwaysPresent="1" />
+  </Device>
+  <Device>
+    <ChipInfo Vendor="ArteryTek" Name="qspi_algorithm_w25q128_CS_B10_IO1_H3" WorkRAMAddr="0x20000000" WorkRAMSize="0x080000" Core="JLINK_CORE_CORTEX_M4" JLinkScriptFile="Devices/ArteryTek/AT32FLM/AT32F4xx.JLinkScript" />
+    <FlashBankInfo Name="Flash Bank3" BaseAddr="0x90000000" MaxSize="0x01000000" Loader="Devices/ArteryTek/AT32FLM/qspi_algorithm_w25q128_CS_B10_IO1_H3.FLM" LoaderType="FLASH_ALGO_TYPE_OPEN" AlwaysPresent="1" />
+  </Device>
+</DataBase>
