@@ -1,4 +1,4 @@
 section
-loadfile Build/App.hex 0x08400000 noreset
+loadfile Build/App.hex 0x90000000 noreset
 reset
 exit
